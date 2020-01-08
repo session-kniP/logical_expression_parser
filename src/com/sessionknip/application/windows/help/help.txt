@@ -1,0 +1,19 @@
+This parser is case insensitive i.e.
+'cat' == 'cAt' == 'CAt' == 'caT', etc.
+
+Boolean Operations:
+
+Operation       |   Char
+-----------------------------
+inversion       |   '-'
+-----------------------------
+conjunction     |   '*'
+-----------------------------
+disjunction     |   '+'
+-----------------------------
+implication     |   '>'
+-----------------------------
+equivalent      |   '~'
+
+You can generate complex logical subexpressions
+using "Generate" button in the window on the right
